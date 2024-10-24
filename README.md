@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-// git clone "github.com/react-typescript-qr-generator"
+// git clon (https://github.com/Basheer007/react-typescript-qr-generator.git)
 
 // cd react-typescript
 // npm install
